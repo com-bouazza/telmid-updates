@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /v6/
 Allow: /
 
-Sitemap: https://com-bouazza.github.io/sitemap.xml
+Sitemap: https://com-bouazza.github.io/telmid-updates/sitemap.xml
